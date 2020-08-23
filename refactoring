@@ -1,0 +1,17 @@
+public class testing {
+
+public void testing1() { System.out.println("halo"); return; System.out.println("saya");
+}
+
+public void testing2() { System.out.println("halo"); if (true) {
+return;
+}
+System.out.println("saya");
+}
+
+public void testing2() { System.out.println("halo"); while (true) {
+return;
+}
+System.out.println("saya");
+}
+}
